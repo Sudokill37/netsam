@@ -2,6 +2,7 @@
 *.o
 *.exe
 *.out
+*.obj
 build/
 cmake-build-*/
 
