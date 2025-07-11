@@ -1,0 +1,18 @@
+# C++
+*.o
+*.exe
+*.out
+build/
+cmake-build-*/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+py_env/
+
+# General
+.DS_Store
+.vscode/
